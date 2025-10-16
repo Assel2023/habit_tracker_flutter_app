@@ -1,0 +1,84 @@
+{
+    "@@locale": "en",
+
+    "myHabits": "My Habits",
+    "yourDailyProgress": "Your Daily Progress",
+    "habitsCompleted": "{count} of {total} habits completed",
+    "@habitsCompleted": {
+        "placeholders": { "count": {}, "total": {} }
+    },
+
+    "statistics": "Statistics",
+    "manageCategories": "Manage Categories",
+    "generalCategory": "General",
+
+    "noHabitsYet": "No habits yet.\nTap the \"+\" button to add one!",
+
+    "days": "Days: {daysString}",
+    "@days": { "placeholders": { "daysString": {} }},
+    "progressComplete": "{progress}% complete",
+    "@progressComplete": { "placeholders": { "progress": {} }},
+
+    "addHabit": "Add New Habit",
+    "editHabit": "Edit Habit",
+    "habitName": "Habit Name",
+    "enterHabitName": "Please enter a habit name",
+    "category": "Category",
+    "selectCategory": "Please select a category",
+    "chooseAnIcon": "Choose an Icon",
+    "chooseAColor": "Choose a Color",
+    "advancedSettings": "Advanced Settings",
+    "frequency": "Frequency",
+    "daily": "Daily",
+    "specificDays": "Specific Days",
+    "selectAtLeastOneDay": "Please select at least one day.",
+    "makeItAChallenge": "Make it a Challenge",
+    "setADuration": "Set a specific duration for this habit.",
+    "durationInDays": "Duration (in days)",
+    "enterADuration": "Please enter a duration",
+    "enterAValidNumber": "Please enter a valid number",
+    "daysSuffix": "{count} days",
+    "@daysSuffix": { "placeholders": { "count": {} }},
+    "enableDailyReminder": "Enable Daily Reminder",
+    "reminderTime": "Reminder Time",
+    "selectTime": "Select Time",
+    "saveChanges": "Save Changes",
+    "saveHabit": "Save Habit",
+    "save": "Save",
+
+    "currentStreak": "Current Streak",
+    "longestStreak": "Longest Streak",
+    "completionHistory": "Completion History",
+    "confirmDeletion": "Confirm Deletion",
+    "deleteConfirmationMessage": "Are you sure you want to delete \"{name}\"? This action cannot be undone.",
+    "@deleteConfirmationMessage": { "placeholders": { "name": {} }},
+    "cancel": "Cancel",
+    "delete": "Delete",
+
+    "noCategoriesFound": "No categories found. Add one to get started!",
+    "addCategory": "Add Category",
+    "editCategory": "Edit Category",
+    "categoryName": "Category Name",
+    "enterACategoryName": "Please enter a name",
+    "categoryColor": "Category Color",
+    "pickAColor": "Pick a color",
+    "done": "Done",
+
+
+    "yearlyHeatmap": "Yearly Heatmap",
+    "totalCompletions": "Total Completions",
+    "weeklyPerformance": "Weekly Performance",
+
+
+
+
+    "onboarding1Title": "Track Your Daily Goals",
+    "onboarding1Description": "Turn your big goals into simple daily habits you can easily track.",
+    "onboarding2Title": "Discover Your Patterns",
+    "onboarding2Description": "Get valuable insights with interactive stats and charts that help you understand your strengths and weaknesses.",
+    "onboarding3Title": "Design Your Better Journey",
+    "onboarding3Description": "With advanced customization, you can build a habit system that fits your unique lifestyle and goals.",
+    "skip": "SKIP",
+    "next": "NEXT",
+    "done": "DONE"
+}

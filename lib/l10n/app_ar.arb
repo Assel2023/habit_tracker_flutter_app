@@ -1,0 +1,76 @@
+{
+    "@@locale": "ar",
+
+    "myHabits": "عاداتي",
+    "yourDailyProgress": "تقدمك اليومي",
+    "habitsCompleted": "{count} من {total} عادات مكتملة",
+
+    "statistics": "الإحصائيات",
+    "manageCategories": "إدارة الفئات",
+    "generalCategory": "عام",
+
+    "noHabitsYet": "لا توجد عادات بعد.\nاضغط على زر \"+\" لإضافة واحدة!",
+
+    "days": "الأيام: {daysString}",
+    "progressComplete": "{progress}% مكتمل",
+
+    "addHabit": "إضافة عادة جديدة",
+    "editHabit": "تعديل العادة",
+    "habitName": "اسم العادة",
+    "enterHabitName": "الرجاء إدخال اسم للعادة",
+    "category": "الفئة",
+    "selectCategory": "الرجاء اختيار فئة",
+    "chooseAnIcon": "اختر أيقونة",
+    "chooseAColor": "اختر لونًا",
+    "advancedSettings": "إعدادات متقدمة",
+    "frequency": "التكرار",
+    "daily": "يوميًا",
+    "specificDays": "أيام محددة",
+    "selectAtLeastOneDay": "الرجاء اختيار يوم واحد على الأقل.",
+    "makeItAChallenge": "اجعلها تحديًا",
+    "setADuration": "حدد مدة معينة لهذه العادة.",
+    "durationInDays": "المدة (بالأيام)",
+    "enterADuration": "الرجاء إدخال مدة",
+    "enterAValidNumber": "الرجاء إدخال رقم صالح",
+    "daysSuffix": "{count} أيام",
+    "enableDailyReminder": "تفعيل التذكير اليومي",
+    "reminderTime": "وقت التذكير",
+    "selectTime": "اختر الوقت",
+    "saveChanges": "حفظ التغييرات",
+    "saveHabit": "حفظ العادة",
+    "save": "حفظ",
+
+    "currentStreak": "السلسلة الحالية",
+    "longestStreak": "أطول سلسلة",
+    "completionHistory": "سجل الإنجاز",
+    "confirmDeletion": "تأكيد الحذف",
+    "deleteConfirmationMessage": "هل أنت متأكد أنك تريد حذف \"{name}\"؟ لا يمكن التراجع عن هذا الإجراء.",
+    "cancel": "إلغاء",
+    "delete": "حذف",
+    
+    "noCategoriesFound": "لا توجد فئات. أضف واحدة للبدء!",
+    "addCategory": "إضافة فئة",
+    "editCategory": "تعديل الفئة",
+    "categoryName": "اسم الفئة",
+    "enterACategoryName": "الرجاء إدخال اسم",
+    "categoryColor": "لون الفئة",
+    "pickAColor": "اختر لونًا",
+    "done": "تم",
+
+    "yearlyHeatmap": "الخريطة الحرارية السنوية",
+    "totalCompletions": "إجمالي الإنجازات",
+    "weeklyPerformance": "الأداء الأسبوعي",
+
+
+
+
+    "onboarding1Title": "تتبع أهدافك اليومية",
+    "onboarding1Description": "حوّل أهدافك الكبيرة إلى عادات يومية بسيطة يمكنك تتبعها بسهولة.",
+    "onboarding2Title": "اكتشف أنماط سلوكك",
+    "onboarding2Description": "احصل على رؤى قيمة من خلال إحصائيات تفاعلية ورسوم بيانية تساعدك على فهم نقاط قوتك وضعفك.",
+    "onboarding3Title": "صمم رحلتك نحو الأفضل",
+    "onboarding3Description": "مع ميزات التخصيص المتقدمة، يمكنك بناء نظام العادات الذي يناسب أسلوب حياتك وأهدافك الفريدة.",
+    "skip": "تخطي",
+    "next": "التالي",
+    "done": "تم"
+}

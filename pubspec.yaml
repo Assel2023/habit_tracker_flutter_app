@@ -1,0 +1,77 @@
+name: habit_tracker
+description: "A new Flutter project."
+publish_to: 'none' 
+
+version: 1.0.0+1
+
+environment:
+  sdk: '>=3.3.3 <4.0.0'
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+  flutter_localizations:
+    sdk: flutter
+
+  intl: ^0.20.2
+
+  # Database
+  hive: ^2.2.3
+  hive_flutter: ^1.1.0
+
+  # State Management
+  provider: ^6.1.1
+
+  # Utilities
+  path_provider: ^2.1.1
+  uuid: ^4.3.3
+
+  # UI & Icons
+  font_awesome_flutter: ^10.7.0
+  table_calendar: ^3.0.9
+  flutter_colorpicker: ^1.0.3
+  confetti: ^0.7.0
+  fl_chart: ^0.68.0
+  flutter_heatmap_calendar: ^1.0.5
+
+  # Audio & Notifications
+  audioplayers: ^6.0.0
+  flutter_local_notifications: ^17.1.2
+  timezone: ^0.9.3
+  
+  # iOS style icons
+  cupertino_icons: ^1.0.8
+  flutter_gen: ^5.10.0
+
+  smooth_page_indicator: ^1.1.0
+
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+
+  # Code Generation
+  hive_generator: ^2.0.1
+  build_runner: ^2.4.7
+
+  # Launcher Icons
+  flutter_launcher_icons: ^0.13.1
+  
+  # Linter
+  flutter_lints: ^4.0.0
+
+# The following section is specific to Flutter packages.
+flutter:
+  uses-material-design: true
+  generate: true 
+
+  assets:
+    - assets/images/
+    # - assets/audio/
+
+flutter_launcher_icons:
+  android: "launcher_icon"
+  ios: true
+  image_path: "assets/images/icon.png"
+  min_sdk_android: 21
