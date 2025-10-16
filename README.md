@@ -8,16 +8,16 @@ A feature-rich, cross-platform mobile application built with Flutter to help use
 
 ## ✨ Features
 
-- ** Modern & Clean UI:** A beautiful and intuitive interface built with a consistent **Glassmorphism** design language.
-- ** Light & Dark Mode:** Seamless theme switching with user preference saved locally.
-- ** Advanced Statistics:** Visualize your progress with a yearly **heatmap** and weekly performance **bar charts**.
-- ** Habit Challenges:** Set time-bound goals (e.g., 30-day challenge) and track your progress with a progress bar.
-- ** Flexible Scheduling:** Create daily habits or schedule them for specific days of the week.
-- ** Categories:** Organize your habits into custom categories with unique names and colors.
-- ** Daily Reminders:** Schedule local notifications to never miss a habit.
-- ** Celebratory Animations:** A fun confetti animation celebrates when you complete all habits for the day.
-- ** Localization:** Full support for **English** and **Arabic**, adapting automatically to the device language.
-- ** Local Storage:** All data is stored securely on the device using the **Hive** database.
+- **🎨 Modern & Clean UI:** A beautiful and intuitive interface built with a consistent **Glassmorphism** design language.
+- **🌙 Light & Dark Mode:** Seamless theme switching with user preference saved locally.
+- **📊 Advanced Statistics:** Visualize your progress with a yearly **heatmap** and weekly performance **bar charts**.
+- **🎯 Habit Challenges:** Set time-bound goals (e.g., 30-day challenge) and track your progress with a progress bar.
+- **🗓️ Flexible Scheduling:** Create daily habits or schedule them for specific days of the week.
+- **🗂️ Categories:** Organize your habits into custom categories with unique names and colors.
+- **🔔 Daily Reminders:** Schedule local notifications to never miss a habit.
+- **🎉 Celebratory Animations:** A fun confetti animation celebrates when you complete all habits for the day.
+- **🌍 Localization:** Full support for **English** and **Arabic**, adapting automatically to the device language.
+- **🔒 Local Storage:** All data is stored securely on the device using the **Hive** database.
 
 ---
 
@@ -25,20 +25,16 @@ A feature-rich, cross-platform mobile application built with Flutter to help use
 
 | Light Mode | Dark Mode |
 | :---: | :---: |
-| ![Light Mode Screenshot 1](![Image](https://github.com/user-attachments/assets/9b299cce-93bf-4ade-8a0c-3c42d3113141)
-) | ![Dark Mode Screenshot 1](![Image](https://github.com/user-attachments/assets/5d397c8a-8f10-45d6-8d0c-81fe08cd4ca3)) |
+| ![Light Mode Screenshot 1](https://github.com/user-attachments/assets/9b299cce-93bf-4ade-8a0c-3c42d3113141) | ![Dark Mode Screenshot 1](https://github.com/user-attachments/assets/5d397c8a-8f10-45d6-8d0c-81fe08cd4ca3) |
 | *Home Screen* | *Home Screen (Dark)* |
-| ![Light Mode Screenshot 2](![Image](https://github.com/user-attachments/assets/a9945b0d-d683-461c-9b0d-d3e2a860c7bf)
-) | ![Dark Mode Screenshot 2](![Image](https://github.com/user-attachments/assets/413bd3f4-ffe8-422e-b966-100dbe69a4cf)) |
+| ![Light Mode Screenshot 2](https://github.com/user-attachments/assets/a9945b0d-d683-461c-9b0d-d3e2a860c7bf) | ![Dark Mode Screenshot 2](https://github.com/user-attachments/assets/413bd3f4-ffe8-422e-b966-100dbe69a4cf) |
 | *Statistics Screen* | *Statistics Screen (Dark)* |
-| ![Light Mode Screenshot 3](![Image](https://github.com/user-attachments/assets/3fb8669b-eb93-41ca-ac7f-9299ddc53314)
-) | ![Dark Mode Screenshot 3](![Image](https://github.com/user-attachments/assets/15262871-f227-42ee-b416-dddd0be69792)
-) |
+| ![Light Mode Screenshot 3](https://github.com/user-attachments/assets/3fb8669b-eb93-41ca-ac7f-9299ddc53314) | ![Dark Mode Screenshot 3](https://github.com/user-attachments/assets/15262871-f227-42ee-b416-dddd0be69792) |
 | *Add Habit Screen* | *Add Habit Screen (Dark)* |
 
 ---
 
-##  Tech Stack & Architecture
+## 🛠️ Tech Stack & Architecture
 
 This project follows a clean architecture approach to ensure scalability and maintainability.
 
